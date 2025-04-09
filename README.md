@@ -58,7 +58,3 @@
 [![Design Insta](https://img.shields.io/badge/@designbyzuran-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/designbyzuran)
 
 </div>
-
----
-
-![Snake animation](https://github.com/zurannii/zurannii/blob/output/github-contribution-grid-snake.svg)
