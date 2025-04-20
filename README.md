@@ -1,4 +1,4 @@
-# 🌙 Olá, eu sou a Rob — Zurannii!
+# 🌙 Olá, eu sou a Rob, mas também pode me chamar de Zurannii!
 
 🎨 Designer UI/UX & Gráfico | 💻 Dev Front-End & Java    
 
